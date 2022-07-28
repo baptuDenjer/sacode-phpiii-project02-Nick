@@ -24,7 +24,7 @@ OOP    : Object Oriented Programming.
 
 ### String
 
-```
+```php
 <?php
 	$a = "Hello World!";
 	$b = "Hello World!";
@@ -41,7 +41,7 @@ OOP    : Object Oriented Programming.
 
 ### Integer
 
-```
+```php
 <?php
 	$x = 23;
 
@@ -52,7 +52,7 @@ OOP    : Object Oriented Programming.
 
 ### Float
 
-```
+```php
 <?php
 	$x = 123.45;
 	var_dump($x);
@@ -67,7 +67,7 @@ OOP    : Object Oriented Programming.
 
 ### Array
 
-```
+```php
 <?php
 	$students =  array("Nick", "Sam", "Archy","Delvi");
 
@@ -95,7 +95,7 @@ OOP    : Object Oriented Programming.
 
 ### Boolean
 
-```
+```php
 <?php
 	$x = true;
 	$y = false;
@@ -111,7 +111,7 @@ OOP    : Object Oriented Programming.
 
 ### Null
 
-```
+```php
 <?php
 	$x = 12;
 	var_dump($x);
@@ -129,7 +129,7 @@ OOP    : Object Oriented Programming.
 
 ### Object-Oriented Programming
 
-```
+```php
 <?php
 	
 	class Car{
