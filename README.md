@@ -9,7 +9,7 @@ Learning Data Types of PHP Programming Language (02)
 	✅ Boolean
 	✅ Object Oriented Programming
 
-#Data Types
+# Data Types
 '''
 	string : array of characters.
 	int    : integer (for number, it can be positive or negative value).
